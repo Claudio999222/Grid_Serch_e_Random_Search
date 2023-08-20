@@ -1,0 +1,2 @@
+# Grid_Serch_e_Random_Search
+ Gli *iperparametri* di un modello sono tutti quei parametri di configurazione che non possono essere appresi direttamente dal modello durante l'addestramento ma necessitano di essere tarati al meglio manualmente per sfruttare al meglio il modello stesso. Sci-Kit Learn mette a disposizione alcuni strumenti per automatizzare il processo di selezione degli iperparametri.
